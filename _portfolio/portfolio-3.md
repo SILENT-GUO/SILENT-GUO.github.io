@@ -1,6 +1,6 @@
 ---
 title: "Ray Tracer"
-excerpt: "An Implementation of Ray Tracing Using Vanilla C++<br/><img src='/images/teapot_area_light.png' width='500' height='300'>
+excerpt: "An Implementation of Ray Tracing Using Vanilla C++<br/><img src='/images/spheres_output.png' width='500' height='300'>
 "
 collection: portfolio
 ---
