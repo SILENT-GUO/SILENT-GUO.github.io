@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 121"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Monte-Carlo Ray Tracer"
+excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
