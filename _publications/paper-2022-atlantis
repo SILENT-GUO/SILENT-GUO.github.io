@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Stock Price Predictions Using Machine Learning Models"
 collection: publications
 permalink: /publication/paper-2022-atlantis
 excerpt: 'This paper implements linear regression, decision tree, neural network and LSTM (Long short-term memory) on Netflix stock data to evaluate the prediction quality of distinct models.'
 date: 2 December 2022
-venue: 'Proceedings of the 2022 International Conference on Artificial Intelligence, Internet and Digital Economy (ICAID 2022)'
+venue: 'ICAID 2022'
 paperurl: '/_publications/paper.pdf'
 
 ---
