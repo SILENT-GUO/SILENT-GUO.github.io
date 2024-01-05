@@ -6,6 +6,8 @@ collection: portfolio
 ---
 Author: Guo Zebin
 
+Source code: [code](https://github.com/SILENT-GUO/BigTwoGame)
+
 How to run:
 + run BigTwo.java
 
