@@ -1,5 +1,5 @@
 ---
-title: "6. Big Two Game"
+title: "Big Two Game"
 excerpt: "An Implementation of Multi-Player Big Two Game with GUI Using Java<br/><img src='/images/bigtwo.png' width='500' height='300'>
 "
 collection: portfolio
