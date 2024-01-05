@@ -12,7 +12,7 @@ I am a fourth year underguaduate student from [Department of Computer Science](h
 
 I am very fortunate to have the final-year project titled "physical-based character animation in fluids" advised by Prof. Taku Komura from [Department of Computer Science](https://www.cs.hku.hk/).
 
-You can find my resume here: [Guo Zebin's Resume](../assets/RESUME.pdf)
+You can find my CV here: [Guo Zebin's Curriculum Vitae](../assets/RESUME.pdf)
 
 
 [Email](mailto:u3577091@connect.hku.hk) / [Github](https://github.com/SILENT-GUO/) / [Wechat](../images/IMG_4611.png)
