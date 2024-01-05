@@ -15,4 +15,4 @@ I am very fortunate to have the final-year project titled "physical-based charac
 You can find my resume here: [Guo Zebin's Resume](../assets/RESUME.pdf)
 
 
-[Email](mailto: u3577091@connect.hku.hk) / [Github](https://github.com/SILENT-GUO/) / [Wechat]()
+[Email](mailto:u3577091@connect.hku.hk) / [Github](https://github.com/SILENT-GUO/) / [Wechat](../images/IMG_4611.png)
