@@ -1,26 +1,14 @@
 ---
 title: "Big Two Game"
-excerpt: "An Implementation of Multi-Player Big Two Game with GUI<br/><img src='/images/bigtwo.png' width='500' height='300'>
+excerpt: "An Implementation of Multi-Player Big Two Game with GUI Using Java<br/><img src='/images/bigtwo.png' width='500' height='300'>
 "
 collection: portfolio
 ---
 Author: Guo Zebin
 
-Thanks to the work done by TA Zhiyang Dou.
+How to run:
++ run BigTwo.java
 
-Tested Platform: Mac M1 silicon
-
-You can find the source code [here](https://github.com/SILENT-GUO/Monte-Carlo-Ray-Tracing).
-
-## How to run:
-After cmake, MODIFY the first two lines of main function in main.cpp.
-Modify absolute directory and scenes (in the scene folder) and run main.cpp.
-The output result (of teapot) is in outputs folder.
-
-## Future Work:
-Implement multi-threading in the process of spp(sampling per pixel) to accelarate the computation. 
-
-
-
+<img width="1327" alt="image" src="https://github.com/SILENT-GUO/BigTwoGame/assets/71827706/40cdf90a-3ecd-4275-8872-230d6d4a7079">
 
 
