@@ -5,7 +5,7 @@ permalink: /publication/paper-2022-atlantis
 excerpt: 'This paper implements linear regression, decision tree, neural network and LSTM (Long short-term memory) on Netflix stock data to evaluate the prediction quality of distinct models.'
 date: 2 December 2022
 venue: 'ICAID'
-paperurl: '/_publications/paper.pdf'
+paperurl: 'https://www.atlantis-press.com/proceedings/icaid-22/125977082'
 
 ---
 This paper implements linear regression, decision tree, neural network and LSTM (Long short-term memory) on Netflix stock data to evaluate the prediction quality of distinct models.
