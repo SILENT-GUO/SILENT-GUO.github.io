@@ -1,7 +1,6 @@
 ---
 title: "Accelarate LLM generation by multi-threading"
 excerpt: "| THREAD NUMBERS | SPEED (TOK/S) | USER TIME | SYSTEM TIME | USE TIME/SYSTEM TIME |<br/>
-|----------------|---------------|-----------|-------------|----------------------|<br/>
 | 0(Sequential)  | 53.090004     | 4.8108    | 0.1440      | 33.4083              |<br/>
 | 1              | 42.838019     | 5.7963    | 0.2465      | 23.514               |<br/>
 | 2              | 72.459666     | 5.9634    | 0.261       | 22.848               |<br/>
