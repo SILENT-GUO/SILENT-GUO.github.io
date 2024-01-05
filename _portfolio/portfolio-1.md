@@ -5,4 +5,25 @@ excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><im
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Monte-Carlo-Ray-Tracing
+A Ray-Tracing demo, programming assignment 3 of HKU COMP3271 course
+
+Author: Guo Zebin
+
+Thanks to the work done by TA Zhiyang Dou.
+
+Tested Platform: Mac M1 silicon
+
+You can find the source code [here](https://github.com/SILENT-GUO/Monte-Carlo-Ray-Tracing).
+
+## How to run:
+After cmake, MODIFY the first two lines of main function in main.cpp.
+Modify absolute directory and scenes (in the scene folder) and run main.cpp.
+The output result (of teapot) is in outputs folder.
+
+## Future Work:
+Implement multi-threading in the process of spp(sampling per pixel) to accelarate the computation. 
+
+
+
+
