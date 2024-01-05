@@ -1,5 +1,5 @@
 ---
-title: "4. JcShell"
+title: "JcShell"
 excerpt: "An Implementation of Job Submission Shell Using C 
 "
 collection: portfolio
