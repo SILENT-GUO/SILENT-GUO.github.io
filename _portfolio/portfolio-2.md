@@ -1,6 +1,6 @@
 ---
 title: "3D Cubic Transformation"
-excerpt: "An Implementation of 3D transformation [click here to see the video](/images/PA1_demo.mp4)”
+excerpt: "An Implementation of 3D transformation [click here to see the video](/images/PA1_demo.mp4)"
 collection: portfolio
 ---
 
