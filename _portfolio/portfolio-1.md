@@ -1,6 +1,7 @@
 ---
 title: "Monte-Carlo Ray Tracer"
-excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><img src='/images/teapot_area_light.png'>"
+excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><img src='/images/teapot_area_light.png' width='500' height='300'>
+"
 collection: portfolio
 ---
 
