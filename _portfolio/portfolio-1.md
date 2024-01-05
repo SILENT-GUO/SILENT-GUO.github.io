@@ -4,8 +4,6 @@ excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><im
 "
 collection: portfolio
 ---
-
-# Monte-Carlo-Ray-Tracing
 A Ray-Tracing demo, programming assignment 3 of HKU COMP3271 course
 
 Author: Guo Zebin
