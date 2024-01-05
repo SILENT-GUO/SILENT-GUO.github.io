@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guo Zebin/Personal Homepage"
+title                    : "Guo Zebin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guo Zebin"
 description              : &description "I am a year-4 undergraduate student from HKU"
