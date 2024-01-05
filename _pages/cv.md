@@ -32,4 +32,4 @@ Publications
   {% endfor %}</ul>
 
 
-Please note that this page only includes my experience very succinctly, for details please view my CV [here](/assets/RESUME.pdf).
+Please be aware that this page provides only a brief overview of my experience. For more details, you can view my CV [here](/assets/RESUME.pdf).
