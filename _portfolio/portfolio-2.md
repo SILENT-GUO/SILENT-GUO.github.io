@@ -1,6 +1,6 @@
 ---
 title: "3D Cubic Transformation"
-excerpt: "An Implementation of 3D transformation <br/><img src='/images/500x300.png'>"
+excerpt: "An Implementation of 3D transformation <br/><img src='/images/PA1_demo.mp4'>"
 collection: portfolio
 ---
 
