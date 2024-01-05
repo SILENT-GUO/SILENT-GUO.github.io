@@ -1,5 +1,5 @@
 ---
-title: "Accelarate LLM generation by multi-threading"
+title: "5. Accelarate LLM generation by multi-threading"
 excerpt: "Accelarate the matrix-vertor multiplication by multi-threading Using C"
 collection: portfolio
 ---
