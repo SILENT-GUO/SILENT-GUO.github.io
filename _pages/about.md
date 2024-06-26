@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year underguaduate student from [Department of Computer Science](https://www.cs.hku.hk/) in [Faculty of Engineering](https://engg.hku.hk/) of [HKU](https://www.hku.hk/). My research interest includes character animation, computer graphics, physical simulation and machine learning.
-
-I am very fortunate to have the final-year project titled "physical-based character animation in fluids" advised by Prof. Taku Komura from [Department of Computer Science](https://www.cs.hku.hk/).
+I am a computer science student, having obtained my bachelor's degree from HKU. I am currently pursuing a Master of Science in Computer Science (MSCS) at Georgia Tech. 
 
 You can find my CV here: [Guo Zebin's Curriculum Vitae](../assets/RESUME.pdf)
 
