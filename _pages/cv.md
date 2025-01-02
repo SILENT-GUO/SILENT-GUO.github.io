@@ -16,10 +16,11 @@ Education
 
 Selected Work experience
 ======
-* Spring 2025: GRA at TBD.
-* Fall 2024: URA at Full-Stack Annotation Platform Development. Special Research Problem at Cross Platform & Android Mobile Sensor App Development.
-* Summer 2023: Intern at Alibaba
-* Summer 2022: Intern at Shining 3D Technology
+* Spring 2025: GRA for TBD at Georgia Tech.
+* Fall 2024: URA for Full-Stack Annotation Platform Development and Special Research Problem for Cross Platform & Android Mobile Sensor App Development at Georgia Tech.
+* Summer 2023: Intern at Alibaba Tmall Group.
+* Summer 2022: Intern at [Shining 3D Technology](https://www.shining3d.cn/).
+* Summer 2021: Intern at [BranD new Data](https://www.brandnewdata.com/).
 
 Skills
 ======
