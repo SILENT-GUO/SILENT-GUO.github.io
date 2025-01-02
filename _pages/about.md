@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science student, having obtained my bachelor's degree from HKU. I am currently pursuing a Master of Science in Computer Science (MSCS) at Georgia Tech. 
+I am a computer science student pursuing Master's degree at Georgia Tech. I was graduated from The University of Hong Kong in July 2024.
 
 You can find my Resume here: [Resume](../assets/Zebin_Guo.pdf)
 
