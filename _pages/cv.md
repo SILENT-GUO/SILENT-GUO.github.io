@@ -36,4 +36,4 @@ Publications
   {% endfor %}</ul>
 
 
-Please be aware that this page provides only a brief overview of selected experiences. For more details, you can view my RESUME Specialized in SDE [here](/assets/RESUME.pdf).
+Please be aware that this page provides only a brief overview of selected experiences. For more details, you can view my RESUME Specialized in SDE [here](/assets/Zebin_Guo_SDE_UPDATED.pdf).
