@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "RESUME"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,18 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.Eng. In Department of Computer Science, Faculty of Engineering, The University of Hong Kong. 2020-2024. (expected)
+* M.S. in Computer Science, College of Computing, Georgia Institute of Technology. 2024 - 12/2025 or 5/2026. (Expected) 
+* B.Eng. In Department of Computer Science, Faculty of Engineering, The University of Hong Kong. 2020-2024. First Class Honour's Degree.
 
-Work experience
+Selected Work experience
 ======
+* Spring 2025: GRA at TBD.
+* Fall 2024: URA at Full-Stack Annotation Platform Development. Special Research Problem at Cross Platform & Android Mobile Sensor App Development.
 * Summer 2023: Intern at Alibaba
 * Summer 2022: Intern at Shining 3D Technology
 
 Skills
 ======
-Programming Language: Python, C++, Java, React, JavaScript, etc.
-Professional Knowledge: computer graphics, natural language processing, machine learning, quantum theory, optimization, calculus, linear algebra, game theory, etc.
-Engineering Ability: Proficient in CMake, Maven, and React-based Ice and Ant framework for front-end development.
+* Programming Language: Python, C/C++, Java, React, JavaScript, Kotlin, etc.
+* Academic Knowledge: Software Engineering, Database System, Operating System, Computer Networks, Distributed System, NLP, Data Structures & Algorithms, etc.
+* Engineering Tool Capability: CMake, Maven, MyBatis, Redis, Git.
 
 
 Publications
@@ -32,4 +35,4 @@ Publications
   {% endfor %}</ul>
 
 
-Please be aware that this page provides only a brief overview of my experience. For more details, you can view my CV [here](/assets/RESUME.pdf).
+Please be aware that this page provides only a brief overview of selected experiences. For more details, you can view my RESUME Specialized in SDE [here](/assets/RESUME.pdf).
