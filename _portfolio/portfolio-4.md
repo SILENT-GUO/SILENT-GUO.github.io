@@ -1,27 +1,24 @@
 ---
-title: "JcShell"
-excerpt: "An Implementation of Job Submission Shell Using C 
+title: "Monte-Carlo Ray Tracer"
+excerpt: "An Implementation of Monte-Carlo Ray Tracing Using Vanilla C++<br/><img src='/images/teapot_area_light.png' width='500' height='300'>
 "
 collection: portfolio
 ---
 Author: Guo Zebin
 
-Platform: Linux
+Thanks to the work done by TA Zhiyang Dou.
 
-Source code: [code](https://github.com/SILENT-GUO/JcShell)
+Tested Platform: Mac M1 silicon
 
-This shell is capable of:
-+ It accepts a single command or a job that consists of a sequence of commands linked together with pipes and executes the corresponding command(s) with the given argument list(s).
-+ It can locate and execute any valid program (i.e., compiled programs) by giving an absolute path (starting with /) or a relative path (starting with ./ or ../) or by searching directories under the $PATH environment variable.
-+ It can be terminated by the built-in exit command but it cannot be terminated by the Cltr-c key or the SIGINT signal.
-+ After the submitted command/job terminated, It prints the running statistics of all terminated command(s) and waits for the next command/job from the user.
+You can find the source code [here](https://github.com/SILENT-GUO/Monte-Carlo-Ray-Tracing).
 
+## How to run:
+After cmake, MODIFY the first two lines of main function in main.cpp.
+Modify absolute directory and scenes (in the scene folder) and run main.cpp.
+The output result (of teapot) is in outputs folder.
 
-
-
-
-
-
+## Future Work:
+Implement multi-threading in the process of spp(sampling per pixel) to accelarate the computation. 
 
 
 
